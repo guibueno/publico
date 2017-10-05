@@ -303,3 +303,13 @@ body {
   margin: 0;
   text-align: center;
 }
+.hide {
+  display: none;
+}
+.highlight {
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #000 !important;
+  background: #FFF;
+  display: inline;
+}
