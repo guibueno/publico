@@ -31,4 +31,4 @@ Inspirado na prática de Culture Jamming - termo cunhado no início dos anos 80,
 
 Com Makey Makey, você pode controlar um computador com quase tudo! Uma fruta, um legume, um papel desenhado com grafite, uma régua de metal... Qualquer objeto com condutividade elétrica suficiente pode se tornar uma tecla de computador ou até mesmo o botão de um jogo. Neste espaço aberto, os participantes poderão ter experiências como tocar um piano feito de bananas, jogar Tetris apertando pimentões ou até desenhar o próprio controle de videogame. Tudo isso, utilizando apenas um computador e um Makey Makey.
 
-[Links e Materiais](makey-maley.md)
+[Links e Materiais](makey-makey.md)
