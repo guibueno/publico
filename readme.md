@@ -22,6 +22,13 @@ A partir de casos reais apresentados no começo do curso, os participantes serã
 ### [Culture Jamming](proposta-culture-jamming.html)
 [**Release no Site SESCSP**](https://www.sescsp.org.br/aulas/135001_CULTURE+JAMMING+EDICAO+DE+VIDEOS)
 
- Exercícios práticos e seriados de edição de vídeos, em que alunos "recortam" programas e comerciais de televisão para criar mensagens diferentes das originais.
+Exercícios práticos e seriados de edição de vídeos, em que alunos "recortam" programas e comerciais de televisão para criar mensagens diferentes das originais.
 
 Inspirado na prática de Culture Jamming - termo cunhado no início dos anos 80, de técnicas anti-consumismo que pretendem romper ou subverter com a cultura mainstream - e na obra de Guy Debord - autor da importante obra A Sociedade do Espetáculo, contundente texto sobre a sociedade do consumo e a cultura da imagem. Além disso, serão abordados de forma introdutória o Efeito Kuleshov - técnica de edição russa do começo da década de 20 - e outras teorias soviéticas de montagem, e os alunos receberão instrumentalização básica com kdenlive - software livre de edição de vídeos.
+
+### Experimentando controles com Makey Makey
+[**Release no Site SESCSP**](https://www.sescsp.org.br/programacao/191495_EXPERIMENTANDO+CONTROLES+COM+MAKEY+MAKEY)
+
+Com Makey Makey, você pode controlar um computador com quase tudo! Uma fruta, um legume, um papel desenhado com grafite, uma régua de metal... Qualquer objeto com condutividade elétrica suficiente pode se tornar uma tecla de computador ou até mesmo o botão de um jogo. Neste espaço aberto, os participantes poderão ter experiências como tocar um piano feito de bananas, jogar Tetris apertando pimentões ou até desenhar o próprio controle de videogame. Tudo isso, utilizando apenas um computador e um Makey Makey.
+
+[Links e Materiais](makey-maley.md)
