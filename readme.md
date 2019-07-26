@@ -29,7 +29,9 @@ Diante desse cenário, a oficina propõe um espaço de interação com equipamen
 
 ### [Movelaria de Papelão](http://movelaria.github.io) 
 [**Release @Sesc Vila Mariana**](https://www.sescsp.org.br/aulas/135592_MOVELARIA+DE+PAPELAO+CONSTRUINDO+A+ACESSIBILIDADE) 
+
 [**Release @Sesc Pinheiros**](https://www.sescsp.org.br/programacao/153181_OFICINA+DE+MOVELARIA+ACESSIVEL+CONSTRUINDO+COM+PAPELAO) 
+
 [**Release @Sesc São Caetano**](https://www.sescsp.org.br/programacao/191488_MOVELARIA+DE+PAPELAO) 
 
  Baseado no trabalho da Adaptive Design Association (ADA), instituição pró-acessibilidade de Nova York, o curso pretende ensinar os participantes a construir móveis adaptados utilizando o papelão como principal matéria prima.
@@ -38,6 +40,7 @@ A partir de casos reais apresentados no começo do curso, os participantes serã
 
 ### [Culture Jamming & Vídeo-colagens](http://videocolagem.github.io) 
 [**Release @Sesc Vila Mariana**](https://www.sescsp.org.br/aulas/135001_CULTURE+JAMMING+EDICAO+DE+VIDEOS) 
+
 [**Release @Sesc São Caetano**](https://www.sescsp.org.br/programacao/191499_VIDEOCOLAGEM) 
 
 Exercícios práticos e seriados de edição de vídeos, em que alunos "recortam" programas e comerciais de televisão para criar mensagens diferentes das originais.
