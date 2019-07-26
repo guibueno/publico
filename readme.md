@@ -13,7 +13,7 @@ Nesse curso introdutório serão apresentados os principais fundamentos para a e
 
 O curso também aborda o fluxo de trabalho com imagens, desde métodos de organização de arquivos à exportação de coleções.
 
-### [Letramento digital: como utilizar o Youtubbe]
+### Letramento digital: como utilizar o Youtube
 [**Release @Sesc São Caetano**](https://www.sescsp.org.br/programacao/198889_LETRAMENTO+DIGITAL+COMO+UTILIZAR+O+YOUTUBE)
 
 Esta oficina tem como propósito apresentar o vasto universo dos vídeos na Internet para alunxs em estágio de letramento digital. O YouTube, plataforma de compartilhamento de vídeos online, será o principal tema de análise e a principal ferramenta para exploração desses conteúdos.
