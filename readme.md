@@ -1,4 +1,4 @@
-# Gui Bueno @ Sesc Vila Mariana
+# Gui Bueno
 
 ## Quem sou eu?
 
